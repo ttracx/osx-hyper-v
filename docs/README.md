@@ -832,3 +832,16 @@ Refer to [CONTRIBUTING.md](/docs/CONTRIBUTING.md) for instructions (and tips) on
 ## 🌟 Credits
 - [@Goldfish64](https://github.com/Goldfish64) for creating and maintaining [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) and it's supporting documentation.
 - [@ssdsl0126](https://github.com/ssdsl0126) for testing and discoverying a fix for recoveryOS boot issues on AMD Ryzen 5950x CPUs.
+
+<!-- THOX-DOCS-BASELINE:START -->
+## THOX Documentation Baseline
+
+This documentation set is maintained for release readiness and operational clarity under THOX.ai LLC.
+
+- Tommy Xaypanya is CTO.
+- Craig Ross is CEO.
+- Keep setup, validation, release, and legal notes current with the implementation.
+- Preserve third-party notices and upstream license obligations when this repository includes external components.
+
+Copyright (c) 2026 THOX.ai LLC. All rights reserved unless a repository-specific license states otherwise.
+<!-- THOX-DOCS-BASELINE:END -->
